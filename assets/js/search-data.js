@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Courses taught as a graduate assistant.",
+        },{id: "nav-graduate-teaching-assistant",
+          title: "Graduate Teaching Assistant",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
