@@ -391,16 +391,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-admitted-and-started-ph-d-in-biomedical-engineering-supervised-by-joon-lee",
           title: 'Admitted  and started Ph.D. in Biomedical  engineering, supervised by Joon Lee',
+          description: "",
+          section: "News",},{id: "news-honored-as-a-recipient-of-the-prestigious-alberta-graduate-excellence-scholarship-ages",
+          title: 'Honored as a recipient of the prestigious Alberta Graduate Excellence Scholarship AGES.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
