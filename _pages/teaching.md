@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Courses taught as a graduate assistant.
+title: Graduate Teaching Assistant
+description:
 nav: true
 nav_order: 6
 ---
