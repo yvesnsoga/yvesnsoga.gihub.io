@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taught as a graduate assistant.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- Machine Learning for Health Data Science Faculty of Cumming School of Medicine, Graduate Science Education, [University of Calgary](https://www.ucalgary.ca). An introductory course in machine learning, specifically tailored to health-related applications.
 
-Organize your courses by years, topics, or universities, however you like!
+- Natural Language Processing,  Artificial  intelligence for public health [AI4PH](https://ai4ph-hrtp.ca). An introductory course for natural  language processing tailored to health-related applications
