@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yvesnsoga.gihub.io//sitemap.xml
+Sitemap: https://yvesnsoga.gihub.io/sitemap.xml
